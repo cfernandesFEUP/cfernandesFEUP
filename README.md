@@ -1,8 +1,6 @@
-### Hi there 👋
-
 ## Hi there, I'm Carlos M.C.G. Fernandes 👋
 
-I'm a Mechanical Engineering Assistant Professor at University of Porto, Portugal.
+I'm a Mechanical Engineering. I currently work as Assistant Professor at University of Porto, Portugal.
 
 You can find me at [LinkedIn](https://www.linkedin.com/in/carlosmcgfernandes/)
 
